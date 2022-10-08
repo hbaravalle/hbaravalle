@@ -1,9 +1,10 @@
 # Hernán Baravalle — @hbaravalle
-👋 ¡Hola! Soy Hernán — amante de los stickers, Front End Dev, Product Designer y actualmente Lead Instructor en el Coding Bootcamp que dictamos en [Hack Academy](https://ha.dev).
+👋 Hi! I'm Hernán — sticker lover, Front End Developer and Product Designer based in Buenos Aires, Argentina.
 
-Previamente, he estado trabando en roles como:
-- 📚 Líder del año de especialización, Jefe de Cátedra de las materias Front End I, II y III y Lead Teacher en la carrera [Certified Tech Developer](https://www.digitalhouse.com/ar/landing/descarga-de-programa-certified-tech-developer) en [Digital House Latam](https://www.digitalhouse.com/),
-- 🎓 Profesor adjunto de las materias Programación I y II en la [Licenciatura en Negocios Digitales](https://udesa.edu.ar/escuela-de-negocios/licenciatura-en-negocios-digitales) de la [Universidad de San Andrés](https://udesa.edu.ar/),
-- 📝 Product Designer en [Origin Software](https://www.originsw.com/),
-- 💻 Front End Dev. en [Universidad Torcuato Di Tella](https://www.utdt.edu/),
-- 🎨 Web Designer en [Cus Cus Estudio](http://cuscusdesign.com.ar/)
+## Job experience
+💪 Full Stack Bootcamp Lead Instructor at [Hack Academy](https://ha.dev)\
+📚 Specialization Track Leader and Head of the Chair of Front End I, II & III in the [Certified Tech Developer Career](https://www.digitalhouse.com/ar/landing/descarga-de-programa-certified-tech-developer) at [Digital House Latam](https://www.digitalhouse.com/)\
+🎓 Adjunct Professor of Programming I & II in the [Bachelor's Degree in Digital Business](https://udesa.edu.ar/escuela-de-negocios/licenciatura-en-negocios-digitales) at [Universidad de San Andrés](https://udesa.edu.ar/)\
+📝 Product Designer at [Origin Software](https://www.originsw.com/)\
+💻 Front End Developer at [Universidad Torcuato Di Tella](https://www.utdt.edu/)\
+🎨 Web Designer at [Cus Cus Estudio](http://cuscusdesign.com.ar/)
