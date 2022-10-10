@@ -1,5 +1,5 @@
 # Hernán Baravalle — @hbaravalle
-👋 Hi! I'm Hernán — sticker lover, Front End Developer and Product Designer based in Buenos Aires, Argentina.
+Hi! 👋 I'm Hernán — sticker lover, Front End Developer and Product Designer based in Buenos Aires, Argentina.
 
 ## Job experience
 💪  Full Stack Bootcamp Lead Instructor at [Hack Academy](https://ha.dev)\
