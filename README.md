@@ -1,5 +1,5 @@
 # Hernán Baravalle — @hbaravalle
-👋 Hi! I'm Hernán — sticker lover, Front-end Developer and UX/UI Designer based in Buenos Aires, Argentina.
+👋 Hi! I'm Hernán — sticker lover, Full Stack Developer and UX/UI Designer based in Buenos Aires, Argentina.
 
 ## Job experience
 🎓 MEAN Stack Instructor at BIT: [Bogotá Institute of Technology](https://bit.institute)\
