@@ -8,4 +8,4 @@
 🎓 Adjunct Professor of Programming I & II in the [Bachelor's Degree in Digital Business](https://udesa.edu.ar/escuela-de-negocios/licenciatura-en-negocios-digitales) at [Universidad de San Andrés](https://udesa.edu.ar/)\
 📝 UX Engineer at [Origin Software](https://www.originsw.com/)\
 💻 UX Engineer at [Universidad Torcuato Di Tella](https://www.utdt.edu/)\
-🎨 UX Engineer at [Cus Cus Estudio](http://cuscusdesign.com.ar/)
+🎨 UI Developer at [Cus Cus Estudio](http://cuscusdesign.com.ar/)
