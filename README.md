@@ -1,7 +1,8 @@
 # Hernán Baravalle — @hbaravalle
-👋 Hi! I'm Hernán — sticker lover, Full Stack Developer and UX/UI Designer based in Buenos Aires, Argentina.
+👋 Hi! I'm Hernán — sticker lover, Front-end Developer and UX/UI Designer based in Buenos Aires, Argentina.
 
 ## Job experience
+✏ Software Engineering Bootcamp Author at [TripleTen](https://tripleten.com/)
 🎓 Full Stack Instructor at [Bogotá Institute of Technology](https://bit.institute)\
 📚 Learning Manager at [Hack Academy](https://ha.dev)\
 📚  Head of the Chair of Front-end I, II & III in the [Certified Tech Developer Career](https://www.digitalhouse.com/ar/landing/descarga-de-programa-certified-tech-developer) at [Digital House Latam](https://www.digitalhouse.com/)\
